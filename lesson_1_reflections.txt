@@ -1,3 +1,7 @@
+Lesson 1 Reflections
+
+
+
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 Viewing a diff between two versions made finding bugs easier. In the output on the screen, the lines 

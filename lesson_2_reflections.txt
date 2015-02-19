@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository git creates a git repository for all the files in your repository. You
+need to do this in order to save commits.

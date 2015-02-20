@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 it offers?
 The staging area is a place where you can gather up files to add to a commit. It only holds one version
 each file, unlike the the repository. It only holds the files you wish to commit, unlike the directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Because it allows you to see what changes you have made.

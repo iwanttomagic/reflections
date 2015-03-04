@@ -9,3 +9,11 @@ each file, unlike the the repository. It only holds the files you wish to commit
 
 How can you use the staging area to make sure you have one commit per logical change?
 Because it allows you to see what changes you have made.
+
+What are some situations when branches would be helpful in keeping your history organized? How would 
+branches help?
+Branches would be helpful in keeping my history organized because I could have separate history's for 
+different experimental versions of a game. Say I want to add a new feature to a game I am building, but
+I am not quite sure about how playable it will be after, I can make a separate branch for the experiment.
+This way, if I want to continue to work on the original game, I can checkout to master and everything
+is back to normal. 

@@ -17,3 +17,6 @@ different experimental versions of a game. Say I want to add a new feature to a 
 I am not quite sure about how playable it will be after, I can make a separate branch for the experiment.
 This way, if I want to continue to work on the original game, I can checkout to master and everything
 is back to normal. 
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help me visualize the branch structure by showing the branches as separate tracks.

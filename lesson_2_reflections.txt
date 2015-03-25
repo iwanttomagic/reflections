@@ -20,3 +20,7 @@ is back to normal.
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help me visualize the branch structure by showing the branches as separate tracks.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is that the changes made in each branch are combined. We represent it
+as a combination in the diagram to show that the files have been merged.

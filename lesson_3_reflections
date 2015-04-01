@@ -5,3 +5,10 @@ Why might you want to always pull changes manually rather than having Git automa
 repository?
 You would want to pull changes manually because then your commits would make the most logical sense. Leaving git to pull changes
 will give you arbitrary commits--they might be too big or too small.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Cloning is where you copy a full directory, forking is where you copy a directory on GitHub onto your own user, and branching
+is where you make a version that is seperate from the main branch so you can make changes without breaking the main project.
+You would clone something if you wanted two coppies of a directory in different places on a computer, you would fork if you
+wanted to work on a project that someone else started, and you would branch if you wanted to implement experimental changes
+on a project without affecting the main branch.

@@ -15,3 +15,8 @@ on a project without affecting the main branch.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that if you screw up the program, you don't have to be online to fix it.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would probably collaborate over email. There would be more room for human error because we wouldn't
+have a version control program to easily find changes. But there would be less complicated steps
+in the act of sharing.

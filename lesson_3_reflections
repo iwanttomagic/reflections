@@ -12,3 +12,6 @@ is where you make a version that is seperate from the main branch so you can mak
 You would clone something if you wanted two coppies of a directory in different places on a computer, you would fork if you
 wanted to work on a project that someone else started, and you would branch if you wanted to implement experimental changes
 on a project without affecting the main branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So that if you screw up the program, you don't have to be online to fix it.

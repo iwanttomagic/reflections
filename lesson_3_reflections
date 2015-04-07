@@ -20,3 +20,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I would probably collaborate over email. There would be more room for human error because we wouldn't
 have a version control program to easily find changes. But there would be less complicated steps
 in the act of sharing.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in a separate branch if I translating the program into French or Russian, or if I were experimenting
+with new features. However, adding another branch makes things a little more complicated to access.
